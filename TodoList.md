@@ -1,2 +1,3 @@
 - 学习latex
 - linux
+- 研究一下alfred https://github.com/zenorocha/alfred-workflows
