@@ -22,8 +22,7 @@
   指导产品，通过技术化手段贯彻增长目标的人，他们通常既了解技术，又深谙用户心理，
   擅长发挥创意，绕过限制，通过低成本的手段解决初创公司产品早期的增长问题`
 * 增长黑客是一名多面手
-  ![屏幕快照 2017-12-04 下午12.13.41.png](file:///Users/chengjiachen/Desktop/ 屏
-  幕快照 2017-12-04 下午 12.13.41.png)
+  ![](http://ww1.sinaimg.cn/large/005G8WcOly1fm4ocje5wsj30m60d2181.jpg)
 
 ## 如何成为一个增长黑客
 
@@ -42,13 +41,12 @@
   * 分析应用结果
 * 如何让增长更有效
   * 一个模型 eg：海盗法则 AARRR 模型
-    ![屏幕快照 2017-12-04 下午12.39.09.png](file:///Users/chengjiachen/Desktop/
-    屏幕快照 2017-12-04 下午 12.39.09.png)
-  * 两种数据定量数据
-    ![屏幕快照 2017-12-04 下午12.39.57.png](file:///Users/chengjiachen/Desktop/
-    屏幕快照 2017-12-04 下午 12.39.57.png) 定性数据：了解用户想法
-    ![屏幕快照 2017-12-04 下午12.41.13.png](file:///Users/chengjiachen/Desktop/
-    屏幕快照 2017-12-04 下午 12.41.13.png)
+    ![](http://ww1.sinaimg.cn/large/005G8WcOly1fm4odg70a5j30m60fq0zv.jpg)
+  * 两种数据
+    1. 定量数据
+       ![](http://ww1.sinaimg.cn/large/005G8WcOly1fm4oe6o0vjj30g60hw7aa.jpg)
+    2. 定性数据：了解用户想法
+       ![](http://ww1.sinaimg.cn/large/005G8WcOly1fm4of38odmj30oo0bkq6s.jpg)
   * 四类试验
     * MVT, 最小可行性试验
     * Doubel Down, 乘胜追击
@@ -63,17 +61,12 @@
      * 人员
      * 突破点
   2. 增长需要的工具和技能
-     ![屏幕快照 2017-12-04 下午1.17.01.png](file:///Users/chengjiachen/Desktop/
-     屏幕快照 2017-12-04 下午 1.17.01.png)
+     ![](http://ww1.sinaimg.cn/large/005G8WcOly1fm4of4e20aj30qm0d2gu6.jpg)
   3. 增长团队的流程和指标
-     ![屏幕快照 2017-12-04 下午1.24.18.png](file:///Users/chengjiachen/Desktop/
-     屏幕快照 2017-12-04 下午 1.24.18.png)
-     ![屏幕快照 2017-12-04 下午1.24.24.png](file:///Users/chengjiachen/Desktop/
-     屏幕快照 2017-12-04 下午 1.24.24.png)
+     ![](http://ww1.sinaimg.cn/large/005G8WcOly1fm4of6zi44j30k40gg78e.jpg)
+
   4. 增长团队的架构
-     ![屏幕快照 2017-12-04 下午1.25.55.png](file:///Users/chengjiachen/Desktop/
-     屏幕快照 2017-12-04 下午 1.25.55.png)
-     ![屏幕快照 2017-12-04 下午1.26.46.png](file:///Users/chengjiachen/Desktop/
-     屏幕快照 2017-12-04 下午 1.26.46.png)
+     ![](http://ww1.sinaimg.cn/large/005G8WcOly1fm4oh6ssmbj30h60dkdim.jpg)
+     ![](http://ww1.sinaimg.cn/large/005G8WcOly1fm4ohghw1kj30f20f0dkp.jpg)
 
 ## 增长黑客常用的 7 种数据分析方法
